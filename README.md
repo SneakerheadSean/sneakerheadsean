@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sean Hughes | Software Developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneakerheadsean)](https://github.com/sneakerheadsean/github-readme-stats)
 
