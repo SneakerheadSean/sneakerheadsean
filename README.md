@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneakerheadsean" alt="sneakerheadsean" /></a> </p>
 
-- 🔭 I’m currently working on **SoleSupplier**
+- 🔭 I’m currently working on **Medium-By-Hughes**
 
 - 🌱 I’m currently learning **AWS, Blockchain Development, Swift**
 
