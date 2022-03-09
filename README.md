@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.seanhughes.dev](https://www.seanhughes.dev)
 
-- 📫 How to reach me **thehypebeastdeveloper@gmail.com**
+- 📫 How to reach me **seanhughes23.sh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
