@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneakerheadsean" alt="sneakerheadsean" /></a> </p>
 
-- 🔭 I’m currently working on **Sku (Swift app)**
+- 🔭 I’m currently working on **Sku (SNKRS clone)**
 
-- 🌱 I’m currently learning **AWS, Blockchain Development, Swift**
+- 🌱 I’m currently learning **Swift**
 
-- 👨‍💻 All of my projects are available at [https://www.seanhughes.dev](https://www.seanhughes.dev)
+- 👨‍💻 Portfolio site under construction!!!
 
 - 📫 How to reach me **seanhughes23.sh@gmail.com**
 
